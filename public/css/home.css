@@ -1,0 +1,35 @@
+#book_home img {
+    max-width: 220px;
+    max-height: 310px;
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropdown > .dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.book-slider img {
+    max-width: 400px;
+}
+
+.login-form select {
+    height: 40px;
+    color: #7b7b7b;
+    font-size: 13px;
+}
+
+#myTabContent .product-card .card-image {
+    height: 310px;
+}
+
+#myTabContent .product-card .product-header {
+    height: 80px;
+}
+
+#myTabContent .product-card h3 a {
+    height: 45px;
+}
