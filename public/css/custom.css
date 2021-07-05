@@ -1,0 +1,23 @@
+#change-item-cart img,
+#change-item-cart-2 img {
+    max-width: 60px;
+}
+
+.coupon-text .quantity {
+    font-size: 18px;
+    color: #d53d26;
+    display: inline-block;
+    /* vertical-align: top; */
+    line-height: 20px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.badge-warning {
+    color: #ffffff;
+    background-color: orange;
+}
+
+a:hover {
+    color: #d53d26;
+}
